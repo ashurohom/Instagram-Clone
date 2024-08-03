@@ -26,6 +26,7 @@ This mini-project is a clone of the Instagram login page. The goal of this proje
 
 - HTML5
 - CSS3
+- JavaScript
 
 ## Contributing
 
